@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+models/
+outputs/
+*.pkl
+*.pdf
+chart.png
+.env
+.DS_Store
